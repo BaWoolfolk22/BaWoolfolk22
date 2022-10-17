@@ -1,6 +1,10 @@
-👋 Hello, I’m @BaWoolfolk22
-👀 I’m interested in Frontend web development and design!
-🌱 I’m currently learning Advanced CSS
+👋 Hello, I’m Bianca Woolfolk and a junior Web Developer.
+I have a background in Interior Design and currently transitioning to Front End Web development.
+I'm currently learning Javascript!
+  
+
+👀 
+🌱 
 
 
 
